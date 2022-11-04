@@ -33,7 +33,7 @@ investigate myself for them, in order to become unsuspended. My $20 vanished,
 and I got an email from billing telling me my account was overdrawn by $3.
 
 At this point I baceme no longer interested in becoming unsuspended, and accuse
-thenm of stealing $20 dollars from me, and invite them to "go jump in a lake".
+them of stealing my $20 dollars, and invite them to "go jump in a lake".
 
 They respond with an apology that their onboarding hasn't met expectations,
 and a promise to give me my money back. But for some reason they still want
