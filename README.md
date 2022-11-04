@@ -47,13 +47,9 @@ so maybe you will stop sending me threatening emails over a $3 purchase.
 What they Wanted
 ================
 
-I gathered all the stuff they were asking. My responses were increasingly
-strident variants of the honest truth:
-
-* its for personal use
-* there's no app, company, idea, website, or money
-* im just a guy that likes to play with computers
-* i might use SMS, it would only be to friends and family
+I gathered all the stuff they asked for across all of the emails, because I think it
+speaks for itself. This is from purchasing a single $3 SIM, while it was in the
+mail, didn't even get to activate it.
 
 ### unsolicited email #1
 
