@@ -3,7 +3,7 @@ Summary
 
 Ordinarily this is where I'd put any interesting code I figured out about
 Twilio's `Super SIM` product, but all I have is a dumb story about how neither
-of us wanted to.
+of us wanted me to play with one.
 
 Background
 ==========
