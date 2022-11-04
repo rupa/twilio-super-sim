@@ -75,7 +75,6 @@ mail, didn't even get to activate it.
 ### account suspension email #4
 
     1) A detailed description of your use case of how you intend to use Twilio's services. For example, if you plan to send marketing SMS to your customers, what is your opt-in/out process. Please include:
-
         * links to the website/URL for this process
         * screenshots or a scan/copy of the opt-in/out process
 
