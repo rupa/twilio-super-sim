@@ -52,7 +52,8 @@ What they Wanted
 
 I gathered all the stuff they asked for across all of the emails, because I think it
 speaks for itself. This is from purchasing a single $3 SIM, while it was in the
-mail, didn't even get to activate it.
+mail, didn't even get to activate it. I've omitted surrounding email fluff and the
+72 hours to respond language, this is just what they required, in order
 
 ### unsolicited email #1
 
