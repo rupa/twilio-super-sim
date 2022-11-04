@@ -32,7 +32,7 @@ sent me a 4th email demanding my linkedin or github or whatever i can do to
 investigate myself for them, in order to become unsuspended. My $20 vanished,
 and I got an email from billing telling me my account was overdrawn by $3.
 
-At this point I baceme no longer interested in becoming unsuspended, and accuse
+At this point I became no longer interested in becoming unsuspended, and accuse
 them of stealing my $20 dollars, and invite them to "go jump in a lake".
 
 They respond with an apology that their onboarding hasn't met expectations,
@@ -41,7 +41,8 @@ to know if i would "be able to provide your personal LinkedIn profile, GitHub
 or any publicly available information that will help us verify your identity?
 This may include any social media pages or websites that you are associated with."
 
-So, here it is, my Github, for you.
+So, here it is, my Github, for you. This repo is so you know it's actually me,
+so maybe you will stop sending me threatening emails over a $3 purchase.
 
 What they Wanted
 ================
