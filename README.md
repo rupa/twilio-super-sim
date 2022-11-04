@@ -24,16 +24,16 @@ What happened
 
 Twilio started sending me emails requiring increasingly detailed, invasive,
 and time consuming demands about what I was doing with Twilio. These emails
-each required a response withing 72 hours, or my account would be suspended.
+each required a response within 72 hours, or my account would be suspended.
 
 When i stopped responding after the third email, with no indication they had
 read or acknowledged my responses to the first two, they suspended my account,
 sent me a 4th email demanding my linkedin or github or whatever i can do to
-investigate myself for them, if i want to get unsuspended. My $20 vanished,
+investigate myself for them, in order to become unsuspended. My $20 vanished,
 and I got an email from billing telling me my account was overdrawn by $3.
 
-At this point I am no longer interested in becoming unsuspended, demand they
-not steal $20 dollars from me, and invite them to "go jump in a lake"
+At this point I baceme no longer interested in becoming unsuspended, and accuse
+thenm of stealing $20 dollars from me, and invite them to "go jump in a lake".
 
 They respond with an apology that their onboarding hasn't met expectations,
 and a promise to give me my money back. But for some reason they still want
