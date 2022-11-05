@@ -37,12 +37,11 @@ them of stealing my $20 dollars, and invite them to "go jump in a lake".
 
 They respond with an apology that their onboarding hasn't met expectations,
 and a promise to give me my money back. But for some reason they still want
-to know if i would `be able to provide your personal LinkedIn profile, GitHub
-or any publicly available information that will help us verify your identity?
-This may include any social media pages or websites that you are associated with.`
+to know if i would be able to provide my personal LinkedIn profile, GitHub
+or any publicly available information.
 
-So, here it is, my Github, for you. This repo is so you know it's actually me,
-so maybe you will stop sending me threatening emails over a $3 purchase.
+So, here it is, my Github, for you. This specific repo should validate that it
+is, in fact, my Github.
 
 This is also for anyone that is interested in buying a Super SIM from Twilio,
 and wonder how the experience was for others.
